@@ -1,0 +1,27 @@
+{
+    "token": "yusheng",
+    "appID": "wx74262d1a23afd133",
+    "appSecret": "11b23dcd35f3410837df929815c55860",
+    "accessToken": "",
+    "userInfo": {
+        "username": "nanci",
+        "password": "nanci123abc"
+    },
+    "baiduInfo": {
+        "appID": "25737219",
+        "apiKey": "DSuaT5j57GAMRWoIxlqYkaXt",
+        "secretKey": "4ti3jKWiCWILw9GsNc82Ul5tZCb1asoo"
+    },
+    "hxinfo": {
+        "token": "zyh940305858",
+        "appID": "wx43fb015bc6d1fc40",
+        "appSecret": ""
+    },
+    "mysqlInfo": {
+        "host": "mysql",
+        "port": 3306,
+        "database": "office",
+        "user": "root",
+        "password": "123456"
+    }
+}
